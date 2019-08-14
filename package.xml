@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<package>
+    <name>Zoho_SalesIQ</name>
+    <version>1.0.1</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>With Zoho SalesIQ you can instantly connect to your customers and deliver instant support</summary>
+    <description>It&#x2019;s time where communication with our customers have gone one step ahead in real time, Give your customers access to real-life agents who they connect instantly. Real names, real photos, real people, real easy. With Zoho SalesIQ you can instantly connect to your customers and deliver instant support.&#xD;
+&#xD;
+Why SalesIQ?&#xD;
+&#xD;
+In SalesIQ, you can customize the chat window color, text, logo, icons, input fields (Name, Email, contact number) and many more.&#xD;
+&#xD;
+In the era of real-time communication and instant-everything, customers expect a prompt answer to their questions. With its neat web interface, Zoho SalesIQ allows agents to pick customer chat requests and help them to solve their problems instantly through Live Chat.&#xD;
+&#xD;
+You can easily create, configure and customize your SalesIQ within minutes, Embed the customizable chat widgets into your website and provide a personalized Support experience to your customers.&#xD;
+&#xD;
+Our Features&#xD;
+&#xD;
+* Chat Embed Customization&#xD;
+* Support Customers from your Mobile Devices&#xD;
+* Gaze into the future and see what your customers type as they type it and magically make custom solutions appear before they ever hit submit&#xD;
+* Zoho SalesIQ Integration with Zoho CRM and Zoho Support&#xD;
+* Powerful Reporting&#xD;
+* Advanced organizational features, which includes departments.&#xD;
+* Chat transfer and Monitor&#xD;
+* Categorized Canned Messages&#xD;
+* IP Blocking&#xD;
+* Agent roles&#xD;
+* Business hour&#xD;
+Need to Know More? Visit our website: https://www.zoho.com/salesiq/help/getting-started-with-live-chat.html&#xD;
+&#xD;
+Install Zoho SalesIQ plugin now and sign up for a free account at https://salesiq.zoho.com/register.sas?source=Magento.description</description>
+    <notes>Initial release</notes>
+    <authors><author><name>Zoho SalesIQ</name><user>salesiq</user><email>support@zohosalesiq.com</email></author></authors>
+    <date>2014-09-29</date>
+    <time>07:34:52</time>
+    <contents><target name="magecommunity"><dir name="Zoho"><dir name="Salesiq"><dir name="Block"><file name="Button.php" hash="6db97c4342b658487fec0a6900a830e4"/><file name="Salesiq.php" hash="c1e186b710004dc6fb22ff927e086c23"/><dir name="System"><dir name="Config"><dir name="Salesiq"><file name="Info.php" hash="cb616e9969232f0531cdbf6c42f6a15d"/></dir></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="f15aebf9819cf68e1db2bce60850b079"/></dir><dir name="Model"><file name="Salesiq.php" hash="f0d2a771ff009b6f769f0084c0c17519"/></dir><dir name="controllers"><file name="IndexController.php" hash="1e404747e06a56187051f9bc216f8a08"/></dir><dir name="etc"><file name="adminhtml.xml" hash="cb3944866a6f437a0302a2ee4c221c41"/><file name="config.xml" hash="2e20560ac38f0e6ae808480a985806a0"/><file name="system.xml" hash="b2b1aaa2e79eb7b8950cc5e291dcda6a"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="salesiq.xml" hash="f7f195a3fbaeca4dd6625a759ea3cab3"/></dir><dir name="template"><dir name="salesiq"><file name="button.phtml" hash="41a8146a0be55f0557a46f093ef9fc71"/></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Zoho_Salesiq.xml" hash="5a7f856a8c5e3550e95a3abd9f29d848"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
