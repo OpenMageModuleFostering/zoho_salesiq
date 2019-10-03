@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Zoho_SalesIQ",
+    "name": "OpenMageModuleFostering\/Zoho_SalesIQ",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "With Zoho SalesIQ you can instantly connect to your customers and deliver instant support",
     "authors": [
-    {
-        "name": "Zoho SalesIQ",
-        "email": "support@zohosalesiq.com"
-    }
-],
+        {
+            "name": "Zoho SalesIQ",
+            "email": "support@zohosalesiq.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
